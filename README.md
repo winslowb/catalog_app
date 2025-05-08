@@ -51,6 +51,7 @@ root "products#index"
 All standard index, show, new, edit, create, update, and delete actions are supported via HTML forms.
 
 💡 Extras
+
 Validates presence of name and price on Product
 
 Scope added for Product.expensive (price > 100)
@@ -60,6 +61,7 @@ Uses faker to seed random categories and products
 rails console available for ad hoc DB queries
 
 🤓 Tech Stack
+
 Ruby 3.3.x
 
 Rails 7.x
