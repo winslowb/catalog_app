@@ -14,11 +14,11 @@ This is a basic Ruby on Rails web application for managing a simple product cata
 
 ## 📦 Models
 
-### `Category`
+### Category
 - `id`: Integer
 - `name`: String
 
-### `Product`
+### Product 
 - `id`: Integer
 - `name`: String
 - `price`: Decimal
